@@ -1,10 +1,6 @@
 # Organization App — Event Itinerary & Instrument Inventory
 
-Final Project for **COMP4400 — System Development and Implementation**
-Universidad Interamericana de Puerto Rico, Ponce Campus
-Professor: Dr. Raquel Lugo · May 11, 2023
-
-**Author:**  Radamés Toro Morales
+An application written with Visual Basic code in Visual Studio.
 
 ## Description
 
